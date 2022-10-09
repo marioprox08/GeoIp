@@ -13,7 +13,7 @@ banner = f"""
 {lblue} █▄▄▄▄▄▄███      {red}# {ylw}Version {red}1.1
 """
 help = f"""
-    {red}Usage {ylw}: {grn} ipgeolocation.py [OPTION] ...
+    {red}Usage {ylw}: {grn} IpGeolocation.py [OPTION] ...
     {ylw}To get IP information
 
     Mandatory arguments to long options are mandatory for short options too
@@ -22,7 +22,7 @@ help = f"""
 
     {ylw}Use help 
 
-        {grn}python {red}ipgeolocation.py {ylw}--ip{red}/{ylw}-I {red}[{grn}IP ADDRESS{red}]
+        {grn}python {red}IpGeolocation.py {ylw}--ip{red}/{ylw}-I {red}[{grn}IP ADDRESS{red}]
 
 """
 def Location(IP):
