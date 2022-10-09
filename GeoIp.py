@@ -13,7 +13,7 @@ banner = f"""
 {lblue} █▄▄▄▄▄▄███      {red}# {ylw}Version {red}1.1
 """
 help = f"""
-    {red}Usage {ylw}: {grn}python3 IPLocation.py [OPTION] ...
+    {red}Usage {ylw}: {grn}python3 GeoIp.py [OPTION] ...
     {ylw}To get IP information
 
     Mandatory arguments to long options are mandatory for short options too
