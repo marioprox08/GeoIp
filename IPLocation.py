@@ -8,12 +8,12 @@ ylw = "\033[93m"
 banner = f"""
 {lblue}  ▀▄  ▄▀
 {lblue} ▄▄▄██▄▄▄▄▄      {red}# {grn}IP Location Finder
-{lblue} █      █▀█      {red}# {grn}Coded By B4rC0d
-{lblue} █      █▀█      {red}# {grn}GiHub ID {red}::: {ylw}BlackFoxTM
+{lblue} █      █▀█      {red}# {grn}Tool Created for ! $mile,,
+{lblue} █      █▀█      {red}# {grn}GiHub ID {red}::: {ylw}marioprox08
 {lblue} █▄▄▄▄▄▄███      {red}# {ylw}Version {red}1.1
 """
 help = f"""
-    {red}Usage {ylw}: {grn}python IPLocation.py [OPTION] ...
+    {red}Usage {ylw}: {grn}python3 IPLocation.py [OPTION] ...
     {ylw}To get IP information
 
     Mandatory arguments to long options are mandatory for short options too
