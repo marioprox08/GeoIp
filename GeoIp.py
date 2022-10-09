@@ -22,7 +22,7 @@ help = f"""
 
     {ylw}Use help 
 
-        {grn}python {red}IPLocation.py {ylw}--ip{red}/{ylw}-I {red}[{grn}IP ADDRESS{red}]
+        {grn}python {red}GeoIp.py {ylw}--ip{red}/{ylw}-I {red}[{grn}IP ADDRESS{red}]
 
 """
 def Location(IP):
