@@ -6,7 +6,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 ` git clone https://github.com/marioprox08/GeoIp.git `
 
-` cd ipgeolocation `
+` cd GeoIp `
 
 ` pip3 install requests colorama `
 
