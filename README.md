@@ -4,13 +4,13 @@ ip geo location get info like location , isp , org , country and more ...
 
 ### Installation : 
 
-` git clone https://github.com/marioprox08/ipgeolocation.git `
+` git clone https://github.com/marioprox08/IpGeolocation.git `
 
-` cd ipgeolocation `
+` cd IpGeolocation `
 
 ` pip3 install requests colorama `
 
-` python3 ipgeolocation.py `
+` python3 IpGeolocation.py `
 
 ## Feature : 
 > FAST AND EASY
