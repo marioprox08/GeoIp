@@ -10,7 +10,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 ` pip3 install requests colorama `
 
-` python3 IPLocation.py `
+` python3 GeoIp `
 
 ## Feature : 
 > FAST AND EASY
@@ -23,5 +23,5 @@ ip geo location get info like location , isp , org , country and more ...
 
 > Good Design
 
-### Support Telegram Channel : [Telegram Black fox](https://t.me/BlackFoxSecurityTeam)
+TOOL ON KALI LINUX
 
