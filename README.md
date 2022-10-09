@@ -10,7 +10,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 ` pip3 install requests colorama `
 
-` python3 GeoIp `
+` python3 GeoIp.py `
 
 ## Feature : 
 > FAST AND EASY
